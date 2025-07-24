@@ -12,7 +12,6 @@ create or replace view SFDC.PUBLIC.CAMPAIGN_INFLUENCE_V2(
 	"Influence",
 	"ModelId",
 	"RevenueShare",
---	LOAD_DATE,
 	"Opp_Id",
 	"Type",
 	"OppCreatedDate",
@@ -138,7 +137,6 @@ LHS."ContactId",
 LHS."Influence",
 LHS."ModelId",
 LHS."RevenueShare",
---LHS.LOAD_DATE,
 
 
       
