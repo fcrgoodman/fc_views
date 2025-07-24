@@ -1,0 +1,11 @@
+fc_views:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      role: LOADING
+      warehouse: LOADING
+      database: SFDC
+      schema: PUBLIC
+      account: ''
+      user: ''
