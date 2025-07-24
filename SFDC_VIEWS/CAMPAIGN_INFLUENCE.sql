@@ -1,4 +1,4 @@
-create or replace view SFDC.PUBLIC.CAMPAIGN_INFLUENCE_V2(
+ANALYTICS.INFORMATION_SCHEMAcreate or replace view SFDC.PUBLIC.CAMPAIGN_INFLUENCE_V2(
 	"Id",
 	"IsDeleted",
 	"CreatedDate",
